@@ -12,6 +12,7 @@ This repository contains my solutions to HDLBits Verilog problems.
 | Section | Completed |
 |---------|-----------|
 | Getting Started | 2 |
+|BASICS |2|
 | Vectors | 0 |
 | Modules | 0 |
 | Combinational Logic | 0 |
