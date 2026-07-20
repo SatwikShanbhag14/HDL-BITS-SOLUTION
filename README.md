@@ -1,10 +1,21 @@
 # HDLBits Solutions
 
-This repository contains my HDLBits Verilog solutions.
+This repository contains my solutions to HDLBits Verilog problems.
+
+## Goals
+- Improve Verilog coding skills
+- Build a strong RTL Design foundation
+- Practice digital design concepts
 
 ## Progress
 
-- ✅ 1. Step one
-- ✅ 2. Step two
+| Section | Completed |
+|---------|-----------|
+| Getting Started | 2 |
+| Vectors | 0 |
+| Modules | 0 |
+| Combinational Logic | 0 |
+| Sequential Logic | 0 |
+| FSM | 0 |
 
-I am solving HDLBits to strengthen my RTL Design and Verilog skills.
+> I will update this repository regularly as I solve more HDLBits problems.
